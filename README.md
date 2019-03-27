@@ -1,6 +1,1 @@
-# KevinStoltz01-Machine-Learning-Linear-Regression
-# KevinStoltz01-Machine-Learning-Linear-Regression
-# t-SNE_wine_dataset
-# t-SNE_wine_dataset
-# t-SNE_wine_dataset
-# t-SNE_wine_datset
+A general repository for scipts I will likely imprt into a lot of different programs
